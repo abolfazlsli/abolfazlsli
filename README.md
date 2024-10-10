@@ -18,7 +18,8 @@ Skilled in using Python libraries for diverse purposes, from HTTP requests with 
 
 
 
-# Let see wich apps im using ![image](https://github.com/user-attachments/assets/48c6a193-f6e6-4f84-83b1-1660bfd31c0b)
+# Let see wich apps im using ![image](https://github.com/user-attachments/assets/87428ff1-7206-42ab-83a4-f0910d770c3e)
+
 
 
 
