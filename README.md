@@ -39,7 +39,9 @@ Skilled in using Python libraries for diverse purposes, from HTTP requests with 
 # Some OS i used
 
 
-![image](https://github.com/user-attachments/assets/54705590-1276-4e45-a768-b7c5564c90af) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/492c05aa-0cae-4085-9814-272a28f98806)  &nbsp;&nbsp;&nbsp;  ![image](https://github.com/user-attachments/assets/2f5e9222-7044-463f-aea1-ac252a5763f5) &nbsp;&nbsp;&nbsp;  ![image](https://github.com/user-attachments/assets/8c51d2dc-2d14-40f0-8709-b6dbac1a1e28) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/51cda54b-e90e-4570-8aac-e442c36771c3) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/3350c4ee-0d10-40ba-84aa-c52c1c3c4d50)
+![image](https://github.com/user-attachments/assets/54705590-1276-4e45-a768-b7c5564c90af) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/492c05aa-0cae-4085-9814-272a28f98806)  &nbsp;&nbsp;&nbsp;  ![image](https://github.com/user-attachments/assets/2f5e9222-7044-463f-aea1-ac252a5763f5) &nbsp;&nbsp;&nbsp;  ![image](https://github.com/user-attachments/assets/8c51d2dc-2d14-40f0-8709-b6dbac1a1e28) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/51cda54b-e90e-4570-8aac-e442c36771c3) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/3350c4ee-0d10-40ba-84aa-c52c1c3c4d50) &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/b57acb31-e7a1-4641-9f8b-f12b3d4043db)  &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/c285e2e2-ea5c-4c21-ab8e-bbd389d2971a)
+
+
 
 
    
