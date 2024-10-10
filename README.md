@@ -44,7 +44,18 @@ Skilled in using Python libraries for diverse purposes, from HTTP requests with 
 
 
 
-   
+   ## also you can see my mini projects in this github acount
+
+
+# connect me 
+
+<a href="tel:09924538234">
+   ![image](https://github.com/user-attachments/assets/1f15dd2e-f0cc-4a2a-bc61-0ac5d984c6e1) 09924538234
+</a>
+
+
+
+
 
 
 
