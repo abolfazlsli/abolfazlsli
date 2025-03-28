@@ -56,7 +56,7 @@ Skilled in using Python libraries for diverse purposes, from HTTP requests with 
    <img src='https://github.com/user-attachments/assets/1f15dd2e-f0cc-4a2a-bc61-0ac5d984c6e1'/> 09924538234
 </a>
 <a href="https://www.linkedin.com/in/abolfazl-salehi-2562a133b" >
-   <img src="https://github.com/user-attachments/assets/69ca4829-a9e8-442f-ba98-6fdd7a66dd99" /> My linkedin
+   <img src="https://github.com/user-attachments/assets/69ca4829-a9e8-442f-ba98-6fdd7a66dd99" style="width : 20px ; height: 20px;" /> My linkedin
 
 </a>
 
