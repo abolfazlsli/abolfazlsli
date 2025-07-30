@@ -74,6 +74,7 @@ Hello! I'm **Abolfazl Salehi**, a passionate Full Stack Developer with extensive
 - 📞 Phone: 09924538234  
 - [LinkedIn](https://www.linkedin.com/in/abolfazl-salehi-2562a133b)  
 - [GitHub Projects](https://github.com/Abolfazlsli?tab=repositories)
+- [Web Page Persnol Web](https://abolfazlsli.github.io/cv/)
 
 
 
