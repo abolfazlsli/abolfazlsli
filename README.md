@@ -35,16 +35,16 @@ Hello! I'm **Abolfazl Salehi**, a passionate Full Stack Developer with extensive
 
 ## Platforms & Hosting  & OS
 
-![bootstrap](https://github.com/user-attachments/assets/6eb0eae3-0f07-4c2b-960e-0e135310ed3c) &nbsp;
-![AI](https://github.com/user-attachments/assets/48c65ca3-a585-41fa-bdc6-85fd33cf8c3c) &nbsp;
-![image](https://github.com/user-attachments/assets/e0a5705c-1bee-4b5b-a1dd-7638b1696cc9) &nbsp;
-![image](https://github.com/user-attachments/assets/fcbd408f-ea3c-481a-b5b7-549350cc951a) &nbsp;
-![cpanel](https://github.com/user-attachments/assets/2eab3d77-9c47-49a3-aa0c-de08f9cfe084) &nbsp;
+![bootstrap mashhad iran Ir](https://github.com/user-attachments/assets/6eb0eae3-0f07-4c2b-960e-0e135310ed3c) &nbsp;
+![AI mashhad iran Ir](https://github.com/user-attachments/assets/48c65ca3-a585-41fa-bdc6-85fd33cf8c3c) &nbsp;
+![image mashhad iran Ir](https://github.com/user-attachments/assets/e0a5705c-1bee-4b5b-a1dd-7638b1696cc9) &nbsp;
+![image mashhad iran Ir](https://github.com/user-attachments/assets/fcbd408f-ea3c-481a-b5b7-549350cc951a) &nbsp;
+![cpanel mashhad iran Ir](https://github.com/user-attachments/assets/2eab3d77-9c47-49a3-aa0c-de08f9cfe084) &nbsp;
 
-![next nextjs](https://github.com/user-attachments/assets/11c61887-d733-4a20-b09b-7f5e32a1631f) &nbsp;
-![react reactjs](https://github.com/user-attachments/assets/c122977e-3128-48ae-83cd-e4bebc1ec6fe) &nbsp;
-![flask flask python](https://github.com/user-attachments/assets/b7f2901f-be07-4942-9660-22b19f1b3dce) &nbsp;
-![django django python backend bck-end](https://github.com/user-attachments/assets/4d58ceae-0389-4963-a9bc-9ba32f30609a) &nbsp;
+![next nextjs mashhad iran Ir](https://github.com/user-attachments/assets/11c61887-d733-4a20-b09b-7f5e32a1631f) &nbsp;
+![react reactjs mashhad iran Ir](https://github.com/user-attachments/assets/c122977e-3128-48ae-83cd-e4bebc1ec6fe) &nbsp;
+![flask flask python mashhad iran Ir](https://github.com/user-attachments/assets/b7f2901f-be07-4942-9660-22b19f1b3dce) &nbsp;
+![django django python backend bck-end mashhad iran Ir](https://github.com/user-attachments/assets/4d58ceae-0389-4963-a9bc-9ba32f30609a) &nbsp;
 ![selenium python python developer](https://github.com/user-attachments/assets/8f683bcd-6688-4458-8b07-3765e34f4c35) &nbsp;
 ![cv compiuter visetion python](https://github.com/user-attachments/assets/094dca43-de9a-48ad-a262-00bd1ea7e59c) &nbsp;
 ![pandas python](https://github.com/user-attachments/assets/eacc84ee-ffcb-49c1-81ad-912d99dd6326) &nbsp;
@@ -52,20 +52,20 @@ Hello! I'm **Abolfazl Salehi**, a passionate Full Stack Developer with extensive
 ![nuxt nuxt js nuxtjs](https://github.com/user-attachments/assets/a30a9e98-ede1-4fd5-8110-a1fe3f36009b) &nbsp;
 ![jquery jquery js](https://github.com/user-attachments/assets/a2d37c00-8c59-4f7d-b247-b721e36241e5) &nbsp;
 ![android kotlin java flutter android developer react native js](https://github.com/user-attachments/assets/6b063c3d-965a-4d07-8374-2e03f3547972) &nbsp;
-![android kotlin java android developer](https://github.com/user-attachments/assets/76e0b984-5203-4d09-a482-411f170ed8f4) &nbsp;
-![cshurp](https://github.com/user-attachments/assets/267f6216-3ef8-442c-ad9f-5277ff950cd9) &nbsp;
-![c](https://github.com/user-attachments/assets/d96d63e8-a638-4c92-b96d-ba5aae7302e1) &nbsp;
-![android kotlin java java developer](https://github.com/user-attachments/assets/27746780-f17a-436f-82a2-a9bea4495e88) &nbsp;
-![js javascript java_script js](https://github.com/user-attachments/assets/7351c3bd-007f-47fe-a6fb-73c8c39c3fd3) &nbsp;
-![image](https://github.com/user-attachments/assets/257ffc32-125e-46ab-a183-4db42bdca2d2) &nbsp;
-![linux OS hack pentesting securety](https://github.com/user-attachments/assets/54705590-1276-4e45-a768-b7c5564c90af) &nbsp;
-![linux OS hack pentesting securety kali kalilinux](https://github.com/user-attachments/assets/492c05aa-0cae-4085-9814-272a28f98806) &nbsp;
-![linux OS hack pentesting securety debian debinlinux](https://github.com/user-attachments/assets/2f5e9222-7044-463f-aea1-ac252a5763f5) &nbsp;
-![linux OS hack pentesting securety ubuntu ubuntulinux](https://github.com/user-attachments/assets/8c51d2dc-2d14-40f0-8709-b6dbac1a1e28) &nbsp;
-![linux OS hack pentesting securety centos centOS server serverOS](https://github.com/user-attachments/assets/51cda54b-e90e-4570-8aac-e442c36771c3) &nbsp;
-![linux OS hack pentesting securety backtrack backtrackOS](https://github.com/user-attachments/assets/3350c4ee-0d10-40ba-84aa-c52c1c3c4d50) &nbsp;
-![linux OS hack pentesting securety](https://github.com/user-attachments/assets/b57acb31-e7a1-4641-9f8b-f12b3d4043db) &nbsp;
-![linux OS hack pentesting securety redhat redhatos redHatOs](https://github.com/user-attachments/assets/c285e2e2-ea5c-4c21-ab8e-bbd389d2971a)
+![android kotlin java android developer mashhad iran Ir](https://github.com/user-attachments/assets/76e0b984-5203-4d09-a482-411f170ed8f4) &nbsp;
+![cshurp mashhad iran Ir](https://github.com/user-attachments/assets/267f6216-3ef8-442c-ad9f-5277ff950cd9) &nbsp;
+![c mashhad iran Ir](https://github.com/user-attachments/assets/d96d63e8-a638-4c92-b96d-ba5aae7302e1) &nbsp;
+![android kotlin java java developer mashhad iran Ir](https://github.com/user-attachments/assets/27746780-f17a-436f-82a2-a9bea4495e88) &nbsp;
+![js javascript java_script js mashhad iran Ir](https://github.com/user-attachments/assets/7351c3bd-007f-47fe-a6fb-73c8c39c3fd3) &nbsp;
+![image mashhad iran Ir](https://github.com/user-attachments/assets/257ffc32-125e-46ab-a183-4db42bdca2d2) &nbsp;
+![linux OS hack pentesting securety mashhad iran Ir](https://github.com/user-attachments/assets/54705590-1276-4e45-a768-b7c5564c90af) &nbsp;
+![linux OS hack pentesting securety kali kalilinux mashhad iran Ir](https://github.com/user-attachments/assets/492c05aa-0cae-4085-9814-272a28f98806) &nbsp;
+![linux OS hack pentesting securety debian debinlinux mashhad iran Ir](https://github.com/user-attachments/assets/2f5e9222-7044-463f-aea1-ac252a5763f5) &nbsp;
+![linux OS hack pentesting securety ubuntu ubuntulinux mashhad iran Ir](https://github.com/user-attachments/assets/8c51d2dc-2d14-40f0-8709-b6dbac1a1e28) &nbsp;
+![linux OS hack pentesting securety centos centOS server serverOS mashhad iran Ir](https://github.com/user-attachments/assets/51cda54b-e90e-4570-8aac-e442c36771c3) &nbsp;
+![linux OS hack pentesting securety backtrack backtrackOS mashhad iran Ir](https://github.com/user-attachments/assets/3350c4ee-0d10-40ba-84aa-c52c1c3c4d50) &nbsp;
+![linux OS hack pentesting securety mashhad iran Ir](https://github.com/user-attachments/assets/b57acb31-e7a1-4641-9f8b-f12b3d4043db) &nbsp;
+![linux OS hack pentesting securety redhat redhatos redHatOs mashhad iran Ir](https://github.com/user-attachments/assets/c285e2e2-ea5c-4c21-ab8e-bbd389d2971a)
 
 ---
 
